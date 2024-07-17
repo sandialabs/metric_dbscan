@@ -1,0 +1,9 @@
+*~
+__pycache__
+*.pyc
+*.pickle
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+dist/
+poetry.lock
